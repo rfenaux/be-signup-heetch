@@ -2,7 +2,7 @@
 
 WordPress, the [Twelve-Factor](http://12factor.net/) way: fully managed using Composer and configured using environment variables.
 
-## General Concepts and Considerations
+##### General Concepts and Considerations
 
 The WordPress installation is fully contained in top-level `wordpress` and `wp-content` directories upon `composer install`. A `wp-config.php` resides in the root of the project, and uses several different environment variables to control behavior.
 
