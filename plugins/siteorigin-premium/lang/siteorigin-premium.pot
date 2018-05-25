@@ -1,0 +1,1038 @@
+# Copyright (C) 2018 siteorigin-premium
+# This file is distributed under the same license as the siteorigin-premium package.
+msgid ""
+msgstr ""
+"Project-Id-Version: siteorigin-premium\n"
+"Report-Msgid-Bugs-To: http://www.siteorigin.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: SiteOrigin <support@siteorigin.com>\n"
+"Language-Team: SiteOrigin <support@siteorigin.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: tmp/addons/plugin/accordion/accordion.php:105, tmp/addons/plugin/tabs/tabs.php:129
+msgid "Presets"
+msgstr ""
+
+#: tmp/addons/plugin/accordion/accordion.php:261, tmp/addons/plugin/accordion/accordion.php:531, tmp/addons/plugin/tabs/tabs.php:265, tmp/addons/plugin/tabs/tabs.php:337, tmp/addons/plugin/tabs/tabs.php:389, tmp/addons/plugin/tabs/tabs.php:435, tmp/addons/plugin/tabs/tabs.php:551, tmp/addons/plugin/tabs/tabs.php:575, tmp/addons/plugin/tabs/tabs.php:609, tmp/addons/plugin/tabs/tabs.php:707
+msgid "Top"
+msgstr ""
+
+#: tmp/addons/plugin/accordion/accordion.php:269, tmp/addons/plugin/accordion/accordion.php:539, tmp/addons/plugin/tabs/tabs.php:273, tmp/addons/plugin/tabs/tabs.php:339, tmp/addons/plugin/tabs/tabs.php:361, tmp/addons/plugin/tabs/tabs.php:397, tmp/addons/plugin/tabs/tabs.php:443, tmp/addons/plugin/tabs/tabs.php:485, tmp/addons/plugin/tabs/tabs.php:553, tmp/addons/plugin/tabs/tabs.php:577, tmp/addons/plugin/tabs/tabs.php:617, tmp/addons/plugin/tabs/tabs.php:709
+msgid "Right"
+msgstr ""
+
+#: tmp/addons/plugin/accordion/accordion.php:277, tmp/addons/plugin/accordion/accordion.php:547, tmp/addons/plugin/tabs/tabs.php:281, tmp/addons/plugin/tabs/tabs.php:341, tmp/addons/plugin/tabs/tabs.php:405, tmp/addons/plugin/tabs/tabs.php:451, tmp/addons/plugin/tabs/tabs.php:555, tmp/addons/plugin/tabs/tabs.php:579, tmp/addons/plugin/tabs/tabs.php:625, tmp/addons/plugin/tabs/tabs.php:711
+msgid "Bottom"
+msgstr ""
+
+#: tmp/addons/plugin/accordion/accordion.php:285, tmp/addons/plugin/accordion/accordion.php:555, tmp/addons/plugin/tabs/tabs.php:289, tmp/addons/plugin/tabs/tabs.php:343, tmp/addons/plugin/tabs/tabs.php:359, tmp/addons/plugin/tabs/tabs.php:413, tmp/addons/plugin/tabs/tabs.php:459, tmp/addons/plugin/tabs/tabs.php:483, tmp/addons/plugin/tabs/tabs.php:557, tmp/addons/plugin/tabs/tabs.php:581, tmp/addons/plugin/tabs/tabs.php:633, tmp/addons/plugin/tabs/tabs.php:713
+msgid "Left"
+msgstr ""
+
+#: tmp/addons/plugin/accordion/accordion.php:359
+msgid "Title text transform"
+msgstr ""
+
+#: tmp/addons/plugin/accordion/accordion.php:363, tmp/addons/plugin/animations/inc/animation-types.php:4, tmp/addons/plugin/contact-form-fields/contact-form-fields.php:339, tmp/addons/plugin/hero/inc/animation-types.php:7
+msgid "None"
+msgstr ""
+
+#: tmp/addons/plugin/accordion/accordion.php:365
+msgid "Capitalize"
+msgstr ""
+
+#: tmp/addons/plugin/accordion/accordion.php:367
+msgid "Uppercase"
+msgstr ""
+
+#: tmp/addons/plugin/accordion/accordion.php:369
+msgid "Lowercase"
+msgstr ""
+
+#: tmp/addons/plugin/accordion/accordion.php:575, tmp/addons/plugin/tabs/tabs.php:497, tmp/addons/plugin/tabs/tabs.php:653
+msgid "Font"
+msgstr ""
+
+#: tmp/addons/plugin/accordion/accordion.php:583, tmp/addons/plugin/tabs/tabs.php:505, tmp/addons/plugin/tabs/tabs.php:661
+msgid "Font size"
+msgstr ""
+
+#: tmp/addons/plugin/accordion/accordion.php:879, tmp/addons/plugin/tabs/tabs.php:1055
+msgid "This field requires Page Builder."
+msgstr ""
+
+#: tmp/addons/plugin/animations/animations.php:79
+msgid "Help"
+msgstr ""
+
+#: tmp/addons/plugin/animations/animations.php:105
+msgid "Animations"
+msgstr ""
+
+#: tmp/addons/plugin/animations/animations.php:137, tmp/addons/plugin/hero/hero.php:129
+msgid "Animation"
+msgstr ""
+
+#: tmp/addons/plugin/animations/animations.php:145
+msgid "The type of animation for this element."
+msgstr ""
+
+#: tmp/addons/plugin/animations/animations.php:155
+msgid "Element Enters Screen"
+msgstr ""
+
+#: tmp/addons/plugin/animations/animations.php:157
+msgid "Element In Screen"
+msgstr ""
+
+#: tmp/addons/plugin/animations/animations.php:159
+msgid "Page Load"
+msgstr ""
+
+#: tmp/addons/plugin/animations/animations.php:161
+msgid "On Hover"
+msgstr ""
+
+#: tmp/addons/plugin/animations/animations.php:169
+msgid "Slide Display"
+msgstr ""
+
+#: tmp/addons/plugin/animations/animations.php:179
+msgid "Animation Event"
+msgstr ""
+
+#: tmp/addons/plugin/animations/animations.php:189
+msgid "The event that triggers the animation."
+msgstr ""
+
+#: tmp/addons/plugin/animations/animations.php:199
+msgid "Screen Offset"
+msgstr ""
+
+#: tmp/addons/plugin/animations/animations.php:207
+msgid "How many pixels above the bottom of the screen must the element be before animating in."
+msgstr ""
+
+#: tmp/addons/plugin/animations/animations.php:217
+msgid "Animation Speed"
+msgstr ""
+
+#: tmp/addons/plugin/animations/animations.php:225
+msgid "Number of seconds that the incoming animation lasts."
+msgstr ""
+
+#: tmp/addons/plugin/animations/animations.php:235
+msgid "Hide Before Animation"
+msgstr ""
+
+#: tmp/addons/plugin/animations/animations.php:243, tmp/addons/plugin/hero/hero.php:191
+msgid "Hide the element before animating."
+msgstr ""
+
+#: tmp/addons/plugin/animations/animations.php:253
+msgid "Animation Delay"
+msgstr ""
+
+#: tmp/addons/plugin/animations/animations.php:261
+msgid "Number of seconds after the event to start the animation."
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:123
+msgid "Use autoresponder."
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:147
+msgid "Autoresponder"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:157
+msgid "From name"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:161
+msgid "The name of the person the automatic response email will come from."
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:169
+msgid "From email"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:171
+msgid "The email address the automatic response email will come from."
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:179
+msgid "Response email subject"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:181, tmp/addons/plugin/contact-form-fields/contact-form-fields.php:473
+msgid "Message received!"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:189
+msgid "Response email message"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:191, tmp/addons/plugin/contact-form-fields/contact-form-fields.php:481
+msgid "Thanks for contacting us. We'll get back to you shortly."
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:219
+msgid "Datetime picker"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:221
+msgid "Location"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:239
+msgid "Location Options"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:247
+msgid "Show Google Map"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:251
+msgid "Clicking on the map will guess the closest address and the map will try to display the address entered into the text input"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:259
+msgid "Default location"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:267
+msgid "Google Maps API Key"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:273
+msgid "Enter your %sAPI key%s. Your map may not function correctly without one."
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:305
+msgid "Datetime Options"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:313
+msgid "Show Date Picker"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:323
+msgid "Date Picker Label"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:325
+msgid "Date"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:333
+msgid "Disable"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:341
+msgid "Weekends"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:343
+msgid "Weekdays"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:353
+msgid "Disable Dates"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:355
+msgid "Specify specific dates, date ranges or weekdays to disable. Dates should be of the format YYYYMMDD e.g. 20160806 and date ranges should be separated by a hyphen e.g. 20160902-20160918. Week days should be the first three letters of the day e.g. Mon,Wed,Fri. Multiple dates, ranges and days should separated by a comma e.g. 20160825,20160902-20160918,Sun,Fri."
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:363
+msgid "Show Time Picker"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:373
+msgid "Time Picker Label"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:375
+msgid "Time"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:383
+msgid "Use 24h format."
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:393
+msgid "Disabled Times"
+msgstr ""
+
+#: tmp/addons/plugin/contact-form-fields/contact-form-fields.php:395
+msgid "Specify disabled times. Ranges should be specified with a dash and multiple ranges should be separated with a comma. E.g. 5:00pm-8:00am,1pm-14:30"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:131
+msgid "Post Types"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:467
+msgid "Warning! Editing the post type layout will affect %s existing posts of this type."
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:475
+msgid "Warning! Disabling editable layout will cause problems with %s existing posts of this type."
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:483
+msgid "Warning! Editing the post type slug will cause problems with %s existing posts of this type!"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:539
+msgid "Custom Post Type"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:579
+msgid "Read Only Widget"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:581
+msgid "Read Only"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:587
+msgid "This widget will be the same across all instances of this post type."
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1151
+msgid "Post Type Settings"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1189
+msgid "Post Supports"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1195
+msgid "Title"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1197
+msgid "Author"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1199
+msgid "Thumbnail"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1201
+msgid "Excerpt"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1203
+msgid "Trackbacks"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1205
+msgid "Custom Fields"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1207
+msgid "Comments"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1209
+msgid "Revisions"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1211
+msgid "Page Attributes"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1213
+msgid "Post Formats"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1225
+msgid "Editable layout"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1227
+msgid "Whether rows and widgets may be added, moved or deleted. Do not disable this after creating the post type."
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1235, tmp/addons/plugin/cpt-builder/cpt-builder.php:1339
+msgid "Slug"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1237
+msgid "Used in the post type URL. This must be unique across all post types. Do not change this after creating the post type."
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1247
+msgid "Has archive pages"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1257
+msgid "Exclude from search results"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1267
+msgid "Admin Icon"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1277
+msgid "Labels"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1285
+msgid "Singular"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1293
+msgid "Plural"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1305
+msgid "Description"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1313
+msgid "Taxonomies"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1331
+msgid "Label"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1347
+msgid "Taxonomies are tags by default. Hierarchical taxonomies are categories."
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1349
+msgid "Hierarchical"
+msgstr ""
+
+#: tmp/addons/plugin/cpt-builder/cpt-builder.php:1433
+msgid "Dashicons"
+msgstr ""
+
+#: tmp/addons/plugin/cta/cta.php:135, tmp/addons/plugin/testimonial/testimonial.php:155
+msgid "Fonts"
+msgstr ""
+
+#: tmp/addons/plugin/cta/cta.php:143, tmp/addons/plugin/testimonial/testimonial.php:163
+msgid "Title font family"
+msgstr ""
+
+#: tmp/addons/plugin/cta/cta.php:151, tmp/addons/plugin/testimonial/testimonial.php:171
+msgid "Title font size"
+msgstr ""
+
+#: tmp/addons/plugin/cta/cta.php:159
+msgid "Subtitle font family"
+msgstr ""
+
+#: tmp/addons/plugin/cta/cta.php:167
+msgid "Subtitle font size"
+msgstr ""
+
+#: tmp/addons/plugin/hero/hero.php:121
+msgid "Content animation"
+msgstr ""
+
+#: tmp/addons/plugin/hero/hero.php:139
+msgid "Animation event"
+msgstr ""
+
+#: tmp/addons/plugin/hero/hero.php:143
+msgid "Element enters screen"
+msgstr ""
+
+#: tmp/addons/plugin/hero/hero.php:145
+msgid "Element in screen"
+msgstr ""
+
+#: tmp/addons/plugin/hero/hero.php:147
+msgid "Page load"
+msgstr ""
+
+#: tmp/addons/plugin/hero/hero.php:149
+msgid "On hover"
+msgstr ""
+
+#: tmp/addons/plugin/hero/hero.php:151
+msgid "Frame display"
+msgstr ""
+
+#: tmp/addons/plugin/hero/hero.php:163
+msgid "Screen offset"
+msgstr ""
+
+#: tmp/addons/plugin/hero/hero.php:167
+msgid "Distance, in pixels, the content must be above the bottom of the screen before animating in."
+msgstr ""
+
+#: tmp/addons/plugin/hero/hero.php:175
+msgid "Animation speed"
+msgstr ""
+
+#: tmp/addons/plugin/hero/hero.php:179
+msgid "Time, in seconds, that the incoming animation lasts."
+msgstr ""
+
+#: tmp/addons/plugin/hero/hero.php:185
+msgid "Hide before animation"
+msgstr ""
+
+#: tmp/addons/plugin/hero/hero.php:199
+msgid "Animation delay"
+msgstr ""
+
+#: tmp/addons/plugin/hero/hero.php:203
+msgid "Time, in seconds, after the event to start the animation."
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:9
+msgid "Bounce"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:11
+msgid "Flash"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:13
+msgid "Pulse"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:15
+msgid "Rubber band"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:17
+msgid "Shake"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:19
+msgid "Swing"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:21
+msgid "Tada"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:23
+msgid "Wobble"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:25
+msgid "Jello"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:27
+msgid "Bounce in"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:29
+msgid "Bounce in down"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:31
+msgid "Bounce in left"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:33
+msgid "Bounce in right"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:35
+msgid "Bounce in up"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:37
+msgid "Fade in"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:39
+msgid "Fade in down"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:41
+msgid "Fade in down big"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:43
+msgid "Fade in left"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:45
+msgid "Fade in left big"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:47
+msgid "Fade in right"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:49
+msgid "Fade in right big"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:51
+msgid "Fade in up"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:53
+msgid "Fade in up big"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:55
+msgid "Flip"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:57
+msgid "Flip in horizontal"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:59
+msgid "Flip in vertical"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:61
+msgid "Light speed in"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:63
+msgid "Rotate in"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:65
+msgid "Rotate in down left"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:67
+msgid "Rotate in down right"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:69
+msgid "Rotate in up left"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:71
+msgid "Rotate in up right"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:73
+msgid "Slide in up"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:75
+msgid "Slide in down"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:77
+msgid "Slide in left"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:79
+msgid "Slide in right"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:81
+msgid "Zoom in"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:83
+msgid "Zoom in down"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:85
+msgid "Zoom in left"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:87
+msgid "Zoom in right"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:89
+msgid "Zoom in up"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:91
+msgid "Hinge"
+msgstr ""
+
+#: tmp/addons/plugin/hero/inc/animation-types.php:93
+msgid "Roll in"
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:115
+msgid "Always show navigation controls on touch devices."
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:129
+msgid "Disable scrolling while the lightbox is open."
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:139
+msgid "Overlay color"
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:149
+msgid "Overlay opacity"
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:165
+msgid "Fade duration"
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:169
+msgid "Time, in milliseconds, for the lightbox container and overlay to fade in/out."
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:177
+msgid "Fit images in viewport."
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:181
+msgid "Resize images that are too large to fit in the current viewport."
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:189
+msgid "Image fade duration"
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:193
+msgid "Time, in milliseconds, for an image to fade in, once loaded."
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:201
+msgid "Max image height (in pixels)"
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:209
+msgid "Max image width (in pixels)"
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:217
+msgid "Top offset"
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:221
+msgid "Position, in pixels, of the lightbox from the top of the viewport."
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:229
+msgid "Resize duration"
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:239
+msgid "Show image number label"
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:243
+msgid "Show text indicating the current image number and the total number of images in the set."
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:251
+msgid "Disable captions for all lightboxes."
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:259
+msgid "Wrap around"
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:263
+msgid "Go back to the first image when the last image is reached."
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:289
+msgid "Enable Lightbox"
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:291
+msgid "This will override the destination URL."
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:313
+msgid "Album name"
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:315
+msgid "Images with the same album name will be displayed together."
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:333
+msgid "Disable caption for this lightbox"
+msgstr ""
+
+#: tmp/addons/plugin/lightbox/lightbox.php:443
+msgid "%1 of %2"
+msgstr ""
+
+#: tmp/addons/plugin/parallax-sliders/parallax-sliders.php:71, tmp/addons/plugin/parallax-sliders/parallax-sliders.php:77
+msgid "Parallax"
+msgstr ""
+
+#: tmp/addons/plugin/social-widgets/social-media-buttons/social-media-buttons.php:31
+msgid "Add your own social networks."
+msgstr ""
+
+#: tmp/addons/plugin/social-widgets/social-media-buttons/social-media-buttons.php:33
+msgid "New Network"
+msgstr ""
+
+#: tmp/addons/plugin/social-widgets/social-media-buttons/social-media-buttons.php:51
+msgid "Name"
+msgstr ""
+
+#: tmp/addons/plugin/social-widgets/social-media-buttons/social-media-buttons.php:59
+msgid "URL"
+msgstr ""
+
+#: tmp/addons/plugin/social-widgets/social-media-buttons/social-media-buttons.php:67
+msgid "Icon title"
+msgstr ""
+
+#: tmp/addons/plugin/social-widgets/social-media-buttons/social-media-buttons.php:75
+msgid "Icon"
+msgstr ""
+
+#: tmp/addons/plugin/social-widgets/social-media-buttons/social-media-buttons.php:85
+msgid "Icon color"
+msgstr ""
+
+#: tmp/addons/plugin/social-widgets/social-media-buttons/social-media-buttons.php:95
+msgid "Background color"
+msgstr ""
+
+#: tmp/addons/plugin/social-widgets/social-media-buttons/social-media-buttons.php:103
+msgid "Icon image"
+msgstr ""
+
+#: tmp/addons/plugin/tabs/tabs.php:145
+msgid "Use anchor tags in the URL."
+msgstr ""
+
+#: tmp/addons/plugin/tabs/tabs.php:181
+msgid "Title icon"
+msgstr ""
+
+#: tmp/addons/plugin/tabs/tabs.php:189
+msgid "Content type"
+msgstr ""
+
+#: tmp/addons/plugin/tabs/tabs.php:193
+msgid "Text"
+msgstr ""
+
+#: tmp/addons/plugin/tabs/tabs.php:195
+msgid "Layout builder"
+msgstr ""
+
+#: tmp/addons/plugin/tabs/tabs.php:215
+msgid "Content"
+msgstr ""
+
+#: tmp/addons/plugin/tabs/tabs.php:307, tmp/addons/plugin/tabs/tabs.php:521, tmp/addons/plugin/tabs/tabs.php:677
+msgid "Border radius"
+msgstr ""
+
+#: tmp/addons/plugin/tabs/tabs.php:313, tmp/addons/plugin/tabs/tabs.php:527, tmp/addons/plugin/tabs/tabs.php:683
+msgid "Top left"
+msgstr ""
+
+#: tmp/addons/plugin/tabs/tabs.php:315, tmp/addons/plugin/tabs/tabs.php:529, tmp/addons/plugin/tabs/tabs.php:685
+msgid "Top right"
+msgstr ""
+
+#: tmp/addons/plugin/tabs/tabs.php:317, tmp/addons/plugin/tabs/tabs.php:531, tmp/addons/plugin/tabs/tabs.php:687
+msgid "Bottom right"
+msgstr ""
+
+#: tmp/addons/plugin/tabs/tabs.php:319, tmp/addons/plugin/tabs/tabs.php:533, tmp/addons/plugin/tabs/tabs.php:689
+msgid "Bottom left"
+msgstr ""
+
+#: tmp/addons/plugin/tabs/tabs.php:329, tmp/addons/plugin/tabs/tabs.php:543, tmp/addons/plugin/tabs/tabs.php:699
+msgid "Padding"
+msgstr ""
+
+#: tmp/addons/plugin/tabs/tabs.php:353
+msgid "Tabs alignment"
+msgstr ""
+
+#: tmp/addons/plugin/tabs/tabs.php:363
+msgid "Center"
+msgstr ""
+
+#: tmp/addons/plugin/tabs/tabs.php:479
+msgid "Icon location"
+msgstr ""
+
+#: tmp/addons/plugin/tabs/tabs.php:567
+msgid "Margin"
+msgstr ""
+
+#: tmp/addons/plugin/testimonial/testimonial.php:179
+msgid "Name font family"
+msgstr ""
+
+#: tmp/addons/plugin/testimonial/testimonial.php:187
+msgid "Name font size"
+msgstr ""
+
+#: tmp/addons/plugin/testimonial/testimonial.php:195
+msgid "Location font family"
+msgstr ""
+
+#: tmp/addons/plugin/testimonial/testimonial.php:203
+msgid "Location font size"
+msgstr ""
+
+#: tmp/addons/plugin/testimonial/testimonial.php:211
+msgid "Text font family"
+msgstr ""
+
+#: tmp/addons/plugin/testimonial/testimonial.php:219
+msgid "Text font size"
+msgstr ""
+
+#: tmp/admin/options.php:63, tmp/admin/options.php:65
+msgid "SiteOrigin"
+msgstr ""
+
+#: tmp/admin/options.php:87, tmp/admin/options.php:89
+msgid "Premium Addons"
+msgstr ""
+
+#: tmp/admin/options.php:105, tmp/admin/options.php:107
+msgid "Premium License"
+msgstr ""
+
+#: tmp/admin/options.php:165
+msgid "Error loading form! Please try again later."
+msgstr ""
+
+#: tmp/admin/options.php:223
+msgid "License key is invalid. It might have expired."
+msgstr ""
+
+#: tmp/admin/options.php:245
+msgid "There was a problem trying to activate your license."
+msgstr ""
+
+#: tmp/admin/options.php:261
+msgid "Your license couldn't be activated because the key is not valid."
+msgstr ""
+
+#: tmp/admin/options.php:273
+msgid "License could not be activated. It already in use on too many sites."
+msgstr ""
+
+#: tmp/admin/options.php:277
+msgid "Manage licenses on the <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">SiteOrigin Dashboard</a>."
+msgstr ""
+
+#: tmp/admin/options.php:293
+msgid "Your license has been activated."
+msgstr ""
+
+#: tmp/admin/options.php:711
+msgid "You're using SiteOrigin Premium in development mode. Add and activate your license key to change to production mode."
+msgstr ""
+
+#: tmp/admin/options.php:715
+msgid "Development mode uses slower raw files, but they're ideal when you're still developing a site."
+msgstr ""
+
+#: tmp/admin/tpl/addons-page.php:17
+msgid "SiteOrigin Premium Addons"
+msgstr ""
+
+#: tmp/admin/tpl/addons-page.php:19
+msgid "Search Addons"
+msgstr ""
+
+#: tmp/admin/tpl/addons-page.php:24
+msgid "All Addons"
+msgstr ""
+
+#: tmp/admin/tpl/addons-page.php:25
+msgid "Plugin Addons"
+msgstr ""
+
+#: tmp/admin/tpl/addons-page.php:26
+msgid "Theme Addons"
+msgstr ""
+
+#: tmp/admin/tpl/addons-page.php:132
+msgid "Documentation"
+msgstr ""
+
+#: tmp/admin/tpl/addons-page.php:150
+msgid "Proudly Created By"
+msgstr ""
+
+#: tmp/admin/tpl/addons-page.php:161
+msgid "Addon Settings"
+msgstr ""
+
+#: tmp/admin/tpl/addons-page.php:172, tmp/admin/tpl/license-page.php:34
+msgid "Save"
+msgstr ""
+
+#: tmp/admin/tpl/license-page.php:7
+msgid "SiteOrigin Premium License"
+msgstr ""
+
+#: tmp/admin/tpl/license-page.php:20
+msgid "License Key"
+msgstr ""
+
+#: tmp/admin/tpl/license-page.php:24
+msgid "This license is valid and active"
+msgstr ""
+
+#: tmp/admin/tpl/license-page.php:32
+msgid "Activate"
+msgstr ""
+
+#: tmp/functions.php:12
+msgid "<strong>Warning</strong>: You're trying to use <strong>SiteOrigin Premium</strong> as a theme. You need to deactivate it and reinstall it as a plugin. Please reactivate the theme you were using previously."
+msgstr ""
+
+#: tmp/functions.php:13
+msgid "Read More"
+msgstr ""
+
+#: tmp/inc/form.php:23
+msgid "SiteOrigin Premium Form"
+msgstr ""
+
+#: tmp/inc/form.php:70
+msgid "Scripts and styles for this form are loading."
+msgstr ""
+
+#: tmp/inc/notices.php:4
+msgid "Your SiteOrigin Premium license has expired. Please <a href=\"%renew%\" target=\"_blank\" rel=\"noopener noreferrer\">renew your license</a> to continue receiving updates."
+msgstr ""
+
+#: tmp/inc/notices.php:5
+msgid "The SiteOrigin Premium license key you're trying to use is invalid. Please <a href='%purchase%' target='_blank' rel='noopener noreferrer'>purchase one</a> from SiteOrigin."
+msgstr ""
+
+#: tmp/siteorigin-premium.php:305
+msgid "Plugin addon %s does not exist."
+msgstr ""
+
+#: tmp/siteorigin-premium.php:711
+msgid "Addons"
+msgstr ""
+
+#: tmp/siteorigin-premium.php:713
+msgid "License"
+msgstr ""

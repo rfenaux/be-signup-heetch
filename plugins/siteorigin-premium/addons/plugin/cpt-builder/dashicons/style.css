@@ -1,0 +1,17 @@
+.sow-icon-dashicons {
+    font-family: 'dashicons';
+    display: inline-block;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.sow-icon-dashicons[data-sow-icon]:before {
+    content: attr(data-sow-icon);
+}

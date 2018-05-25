@@ -1,0 +1,8 @@
+{
+	"type": "wordpress-theme",
+	"name": "siteorigin-unwind",
+	"version": "xx",
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}

@@ -1,0 +1,1 @@
+jQuery(function(o){o("a[data-lightbox]").on("click",function(){var a=o(this).data("lightboxOptions");lightbox.option(a);var t=o("#lightboxOverlay");t.css("background-color",a.overlayColor),t.css("opacity",a.overlayOpacity)})});

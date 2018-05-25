@@ -1,0 +1,178 @@
+{
+  "flat" : {
+    "label": "Flat",
+    "values": {
+      "initial_tab_index": 0,
+      "design": {
+        "tabs_container": {
+          "background_color": "#828282",
+          "border_color": "",
+          "border_width": "",
+          "border_radius": "",
+          "padding": "12px 10px 0px 10px",
+          "tabs_align": "left"
+        },
+        "tabs": {
+          "background_color": "",
+          "background_hover_color": "#F9F9F9",
+          "title_color": "#ffffff",
+          "title_hover_color": "#2d2d2d",
+          "icon_location": "left",
+          "font_family": "default",
+          "font_size": "18px",
+          "font_size_unit": "px",
+          "border_color": "#828282",
+          "border_hover_color": "#f9f9f9",
+          "border_width": "1px 1px 1px 1px",
+          "border_hover_width": "1px 1px 1px 1px",
+          "border_radius": "0px 0px 0px 0px",
+          "padding": "12px 15px 15px 15px",
+          "margin": "0px 5px 0px 5px"
+        },
+        "panels": {
+          "background_color": "#F9F9F9",
+          "font_family": "",
+          "font_size": "",
+          "font_size_unit": "px",
+          "font_color": "",
+          "border_color": "",
+          "border_width": "",
+          "border_radius": "",
+          "padding": "23px 30px 27px 30px"
+        }
+      }
+    }
+  },
+  "wire" : {
+    "label": "Wire",
+    "values": {
+      "initial_tab_index": 0,
+      "design": {
+        "tabs_container": {
+          "background_color": "#f9f9f9",
+          "border_color": "#e8e8e8",
+          "border_width": "0px 0px 2px 0px",
+          "border_radius": "",
+          "padding": "15px 9px 0px 9px",
+          "tabs_align": "left"
+        },
+        "tabs": {
+          "background_color": "#f9f9f9",
+          "background_hover_color": "",
+          "title_color": "#828282",
+          "title_hover_color": "#000000",
+          "icon_location": "left",
+          "font_family": "Open Sans:600",
+          "font_size": "18px",
+          "font_size_unit": "px",
+          "border_color": "#f9f9f9",
+          "border_hover_color": "#2d2d2d",
+          "border_width": "0px 0px 2px 0px",
+          "border_hover_width": "0px 0px 2px 0px",
+          "border_radius": "",
+          "padding": "11px 11px 11px 11px",
+          "margin": "0px 11px 0px 11px"
+        },
+        "panels": {
+          "background_color": "#F9F9F9",
+          "font_family": "default",
+          "font_size": "",
+          "font_size_unit": "px",
+          "font_color": "#626262",
+          "border_color": "",
+          "border_width": "",
+          "border_radius": "",
+          "padding": "23px 30px 27px 30px"
+        }
+      }
+    }
+  },
+  "rounded_01" : {
+    "label": "Rounded 01",
+    "values": {
+      "initial_tab_index": 0,
+      "design": {
+        "tabs_container": {
+          "background_color": "#828282",
+          "border_color": "",
+          "border_width": "",
+          "border_radius": "",
+          "padding": "12px 10px 0px 10px",
+          "tabs_align": "left"
+        },
+        "tabs": {
+          "background_color": "",
+          "background_hover_color": "#F9F9F9",
+          "title_color": "#ffffff",
+          "title_hover_color": "#2d2d2d",
+          "icon_location": "left",
+          "font_family": "default",
+          "font_size": "18px",
+          "font_size_unit": "px",
+          "border_color": "#828282",
+          "border_hover_color": "#f9f9f9",
+          "border_width": "1px 1px 1px 1px",
+          "border_hover_width": "1px 1px 1px 1px",
+          "border_radius": "6px 6px 0px 0px",
+          "padding": "12px 15px 15px 15px",
+          "margin": "0px 5px 0px 5px"
+        },
+        "panels": {
+          "background_color": "#F9F9F9",
+          "font_family": "default",
+          "font_size": "",
+          "font_size_unit": "px",
+          "font_color": "",
+          "border_color": "",
+          "border_width": "",
+          "border_radius": "",
+          "padding": "23px 30px 27px 30px"
+        }
+      }
+    }
+  },
+  "rounded_02": {
+    "label": "Rounded 02",
+    "values": {
+      "initial_tab_index": 0,
+      "design": {
+        "tabs_container": {
+          "background_color": "#828282",
+          "border_color": "",
+          "border_width": "",
+          "border_radius": "",
+          "padding": "19px 10px 0px 10px",
+          "tabs_align": "left"
+        },
+        "tabs": {
+          "background_color": "",
+          "background_hover_color": "#F9F9F9",
+          "title_color": "#ffffff",
+          "title_hover_color": "#2d2d2d",
+          "icon_location": "left",
+          "font_family": "default",
+          "font_size": "18px",
+          "font_size_unit": "px",
+          "border_color": "#828282",
+          "border_hover_color": "#f9f9f9",
+          "border_width": "1px 1px 1px 1px",
+          "border_hover_width": "1px 1px 1px 1px",
+          "border_radius": "16px 16px 16px 16px",
+          "padding": "6px 15px 7px 15px",
+          "margin": "0px 5px 8px 5px"
+        },
+        "panels": {
+          "background_color": "#F9F9F9",
+          "font_family": "default",
+          "font_size": "",
+          "font_size_unit": "px",
+          "font_color": "",
+          "border_color": "",
+          "border_width": "",
+          "border_radius": "",
+          "padding": "23px 30px 27px 30px"
+        }
+      }
+    }
+  }
+}

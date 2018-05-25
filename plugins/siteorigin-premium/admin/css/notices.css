@@ -1,0 +1,23 @@
+#siteorigin-premium-notice {
+  position: relative; }
+  #siteorigin-premium-notice .siteorigin-notice-dismiss {
+    position: absolute;
+    top: 0;
+    right: 1px;
+    border: none;
+    margin: 0;
+    padding: 9px;
+    background: none;
+    color: #b4b9be;
+    cursor: pointer; }
+    #siteorigin-premium-notice .siteorigin-notice-dismiss:before {
+      background: none;
+      color: #b4b9be;
+      content: '\f153';
+      display: block;
+      font: normal 16px/20px 'dashicons';
+      speak: none;
+      height: 20px;
+      text-align: center;
+      width: 20px;
+      -webkit-font-smoothing: antialiased; }

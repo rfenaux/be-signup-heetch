@@ -1,0 +1,125 @@
+{
+  "flat" : {
+    "label" : "Flat",
+    "values" : {
+      "max_open_panels": 1,
+      "design": {
+        "heading": {
+          "background_color": "#828282",
+          "background_hover_color": "#8C8C8C",
+          "title_color": "#FFFFFF",
+          "title_hover_color": "",
+          "title_align": "left",
+          "title_icon": "",
+          "title_icon_location": "left",
+          "title_font_family": "default",
+          "title_font_size": "18",
+          "title_font_size_unit": "px",
+          "border_color": "",
+          "border_hover_color": "",
+          "border_width": "0px 0px 0px 0px",
+          "border_radius": "0px 0px 0px 0px",
+          "show_open_close_icon": true,
+          "icon_open": "ionicons-plus",
+          "icon_close": "ionicons-minus",
+          "open_close_icon_location": "right",
+          "padding": "15px 30px 15px 30px"
+        },
+        "panels": {
+          "background_color": "#f9f9f9",
+          "font_size": "16",
+          "font_size_unit": "px",
+          "font_color": "",
+          "border_color": "",
+          "border_width": "0px 0px 0px 0px",
+          "margin_bottom": "10",
+          "margin_bottom_unit": "px",
+          "border_radius": "0px 0px 0px 0px",
+          "padding": "30px 30px 15px 30px"
+        }
+      }
+    }
+  },
+  "wire" : {
+    "label" : "Wire",
+    "values" : {
+      "max_open_panels": "",
+      "design": {
+        "heading": {
+          "background_color": "#ffffff",
+          "background_hover_color": "#ffffff",
+          "title_color": "#626262",
+          "title_hover_color": "",
+          "title_align": "center",
+          "title_icon": "",
+          "title_icon_location": "left",
+          "title_font_family": "default",
+          "title_font_size": "18",
+          "title_font_size_unit": "px",
+          "border_color": "#626262",
+          "border_hover_color": "",
+          "border_width": "2px 2px 2px 2px",
+          "border_radius": "0px 0px 0px 0px",
+          "show_open_close_icon": true,
+          "icon_open": "ionicons-plus",
+          "icon_close": "ionicons-minus",
+          "open_close_icon_location": "left",
+          "padding": "15px 30px 15px 30px"
+        },
+        "panels": {
+          "background_color": "#ffffff",
+          "font_size": "16",
+          "font_size_unit": "px",
+          "font_color": "",
+          "border_color": "#626262",
+          "border_width": "0px 2px 2px 2px",
+          "margin_bottom": "10",
+          "margin_bottom_unit": "px",
+          "border_radius": "0px 0px 0px 0px",
+          "padding": "30px 30px 15px 30px"
+        }
+      }
+    }
+  },
+  "rounded" : {
+    "label" : "Rounded",
+    "values" : {
+      "max_open_panels": 1,
+      "design": {
+        "heading": {
+          "background_color": "#828282",
+          "background_hover_color": "",
+          "title_color": "#FFFFFF",
+          "title_hover_color": "",
+          "title_align": "left",
+          "title_icon": "",
+          "title_icon_location": "left",
+          "title_font_family": "default",
+          "title_font_size": "18",
+          "title_font_size_unit": "px",
+          "border_color": "#828282",
+          "border_hover_color": "",
+          "border_width": "3px 3px 3px 3px",
+          "border_radius": "3px 3px 0px 0px",
+          "show_open_close_icon": true,
+          "icon_open": "ionicons-chevron-down",
+          "icon_close": "ionicons-chevron-up",
+          "open_close_icon_location": "right",
+          "padding": "15px 30px 15px 30px"
+        },
+        "panels": {
+          "background_color": "#626262",
+          "font_size": "16",
+          "font_size_unit": "px",
+          "font_color": "#ffffff",
+          "border_color": "#626262",
+          "border_width": "3px 3px 3px 3px",
+          "margin_bottom": "10",
+          "margin_bottom_unit": "px",
+          "border_radius": "0px 0px 3px 3px",
+          "padding": "30px 30px 15px 30px"
+        }
+      }
+    }
+  }
+}
